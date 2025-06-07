@@ -5,14 +5,14 @@ This project provides Python scripts to decrypt and analyze Burp Suite JSON payl
 ---
 
 ## Folder Structure
-
+``` 
 .
 ├── burp.json                 # Sample Burp Suite JSON file with captured requests/responses
 ├── decrypt_burp.py           # Main script to decrypt Burp Suite JSON payloads
 ├── download_wordlists.py     # Utility script to download wordlists for plaintext scoring
 ├── generate_xor_payload.py   # Helper script to generate XOR encoded payloads for testing
 └── wordlist                  # Example custom wordlist file (one word per line)
-
+``` 
 
 ---
 
