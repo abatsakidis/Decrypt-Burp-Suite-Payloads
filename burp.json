@@ -1,0 +1,15 @@
+[
+  {
+    "method": "POST",
+    "url": "http://target/api/login",
+    "request": {
+      "headers": ["Content-Type: application/json"],
+      "body": "Y2Zva2w="
+    },
+    "response": {
+      "status": 200,
+      "headers": ["Content-Type: application/json"],
+      "body": "SGVsbG8gd29ybGQh"
+    }
+  }
+]
