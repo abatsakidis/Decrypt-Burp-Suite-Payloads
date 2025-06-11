@@ -1,5 +1,7 @@
 # Decrypt Burp Suite Payloads
 
+![Python CI](https://github.com/abatsakidis/Decrypt-Burp-Suite-Payloads/actions/workflows/ci.yml/badge.svg)
+
 This project provides Python scripts to decrypt and analyze Burp Suite JSON payloads, which may be encoded or obfuscated using methods such as XOR encryption, Caesar cipher, Base64, URL encoding, and hex encoding.
 
 ---
